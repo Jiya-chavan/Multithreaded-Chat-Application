@@ -16,4 +16,9 @@ I built a multithreaded client–server chat application using Java to understan
 
 Output:
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5db0b3ab-26fd-4263-96aa-c7ff50d02dc4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48adce58-51f2-4372-ba6f-8cc91552c8fb" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dc77ab74-cbee-4585-a701-a35ed097d284" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/91db2e13-efdf-45bb-bf88-c32da8b1f5e4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5dd5d075-a007-4250-9f23-bc9cb9cd7bd1" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d4096cda-9b29-4154-bde2-d65e679d1031" />
